@@ -1,0 +1,76 @@
+scientificName,class,order,family,genus,species,database,body_mass_g,body_mass_source,trophic_level,trophic_level_source,tl_test,hab_test,diet_component,X1.1_ActivityCycle,X12.2_Terrestriality,ForStrat.watbelowsurf,ForStrat.wataroundsurf,ForStrat.ground,ForStrat.understory,ForStrat.midhigh,ForStrat.canopy,ForStrat.aerial,PelagicSpecialist,Nocturnal,Ter,Aqu,Arb,Diu,Noc,Crepu
+Acanthis cabaret,Aves,Passeriformes,Fringillidae,Acanthis,cabaret,elton_birds,12,avonet,Granivore,Edited,G,Ter,seeds,,,,,,,,,,,,,,,,,
+Acanthis flammea,Aves,Passeriformes,Fringillidae,Acanthis,flammea,elton_birds,13,elton_traits,Granivore,elton_traits,G,Ter,seeds,NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Actitis hypoleucos,Aves,Charadriiformes,Scolopacidae,Actitis,hypoleucos,elton_birds,48,elton_traits,"Omnivore, Invertivore, Vertivore, Folivore",elton_traits,O,SemAqu,aquatic_inverts,NA,NA,0,50,50,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Aegithalos caudatus,Aves,Passeriformes,Aegithalidae,Aegithalos,caudatus,elton_birds,8.6,elton_traits,Invertivore,elton_traits,I,Arb,foliage_inverts,NA,NA,0,0,10,40,10,40,0,0,0,NA,NA,NA,NA,NA,NA
+Alauda arvensis,Aves,Passeriformes,Alaudidae,Alauda,arvensis,elton_birds,37.31,elton_traits,Granivore,elton_traits,G,Ter,"soil_inverts,seeds",NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Anas crecca,Aves,Anseriformes,Anatidae,Anas,crecca,elton_birds,341.89,elton_traits,"Granivore, Folivore",elton_traits,H,SemAqu,plant,NA,NA,0,100,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Anser anser,Aves,Anseriformes,Anatidae,Anser,anser,elton_birds,3302.41,elton_traits,Folivore,elton_traits,F,SemAqu,plant,NA,NA,0,20,80,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Anthus pratensis,Aves,Passeriformes,Motacillidae,Anthus,pratensis,elton_birds,18.4,elton_traits,Invertivore,elton_traits,I,Ter,"soil_inverts,foliage_inverts",NA,NA,0,0,70,20,10,0,0,0,0,NA,NA,NA,NA,NA,NA
+Anthus trivialis,Aves,Passeriformes,Motacillidae,Anthus,trivialis,elton_birds,23.33,elton_traits,Invertivore,elton_traits,I,Ter,"soil_inverts,foliage_inverts",NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Ardea cinerea,Aves,Pelecaniformes,Ardeidae,Ardea,cinerea,elton_birds,1443,elton_traits,Vertivore,elton_traits,V,SemAqu,"aquatic_inverts,vertebrates",NA,NA,0,70,30,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Branta canadensis,Aves,Anseriformes,Anatidae,Branta,canadensis,elton_birds,2811.68,elton_traits,Folivore,elton_traits,F,SemAqu,plant,NA,NA,0,40,60,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Buteo buteo,Aves,Accipitriformes,Accipitridae,Buteo,buteo,elton_birds,759.1,elton_traits,Vertivore,elton_traits,V,Ter,vertebrates,NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Capreolus capreolus,Mammalia,Artiodactyla,Cervidae,Capreolus,capreolus,pantheria,22502.01,pantheria,Folivore,elton_traits,F,Ter,plant,2,1,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Carduelis carduelis,Aves,Passeriformes,Fringillidae,Carduelis,carduelis,elton_birds,16,elton_traits,Granivore,elton_traits,G,SemArb,seeds,NA,NA,0,0,20,60,20,0,0,0,0,NA,NA,NA,NA,NA,NA
+Certhia familiaris,Aves,Passeriformes,Certhiidae,Certhia,familiaris,elton_birds,9,elton_traits,Invertivore,elton_traits,I,Arb,foliage_inverts,NA,NA,0,0,40,30,30,0,0,0,0,NA,NA,NA,NA,NA,NA
+Cervus elaphus,Mammalia,Artiodactyla,Cervidae,Cervus,elaphus,pantheria,160166.665,amniota,Folivore,elton_traits,F,Ter,plant,2,1,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Cervus nippon,Mammalia,Artiodactyla,Cervidae,Cervus,nippon,pantheria,52999.99,pantheria,Folivore,elton_traits,F,Ter,plant,2,1,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Coccothraustes coccothraustes,Aves,Passeriformes,Fringillidae,Coccothraustes,coccothraustes,elton_birds,56.63,elton_traits,"Granivore, Folivore, Frugivore",elton_traits,G,Arb,seeds,NA,NA,0,0,0,20,60,20,0,0,0,NA,NA,NA,NA,NA,NA
+Columba palumbus,Aves,Columbiformes,Columbidae,Columba,palumbus,elton_birds,490,elton_traits,"Granivore, Folivore",elton_traits,H,Ter,"plant,seeds",NA,NA,0,0,80,20,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Corvus corax,Aves,Passeriformes,Corvidae,Corvus,corax,elton_birds,927.97,elton_traits,"Vertivore, Scavenger",elton_traits,V,Ter,"soil_inverts,vertebrates,carrion,fungi",NA,NA,0,0,80,0,10,0,10,0,0,NA,NA,NA,NA,NA,NA
+Corvus corone,Aves,Passeriformes,Corvidae,Corvus,corone,elton_birds,570,elton_traits,"Vertivore, Scavenger",elton_traits,V,Ter,"vertebrates,carrion,soil_inverts,fungi",NA,NA,0,0,90,0,0,0,10,0,0,NA,NA,NA,NA,NA,NA
+Cuculus canorus,Aves,Cuculiformes,Cuculidae,Cuculus,canorus,elton_birds,111.36,elton_traits,Invertivore,elton_traits,I,SemArb,foliage_inverts,,,0,0,20,20,40,20,0,0,,,,,,,
+Cyanistes caeruleus,Aves,Passeriformes,Paridae,Cyanistes,caeruleus,elton_birds,13.3,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,Arb,"seeds,foliage_inverts",NA,NA,0,0,10,30,30,30,0,0,0,NA,NA,NA,NA,NA,NA
+Bufo bufo,Amphibia,Anura,Bufonidae,Bufo,bufo,amphibio,164.75,amphibio,"Carnivore, Invertivore",amphibio,I,SemAqu,aquatic_inverts,NA,NA,10,80,10,0,0,0,0,0,0,1,1,NA,NA,1,1
+Cygnus olor,Aves,Anseriformes,Anatidae,Cygnus,olor,elton_birds,10682.04,elton_traits,Folivore,elton_traits,F,SemAqu,plant,,,0,100,0,0,0,0,0,0,,,,,,,
+Dendrocopos major,Aves,Piciformes,Picidae,Dendrocopos,major,elton_birds,74.94,elton_traits,"Omnivore, Invertivore, Granivore",elton_traits,O,Arb,foliage_inverts,NA,NA,0,0,0,20,40,30,10,0,0,NA,NA,NA,NA,NA,NA
+Erithacus rubecula,Aves,Passeriformes,Muscicapidae,Erithacus,rubecula,elton_birds,17.7,elton_traits,"Omnivore, Invertivore, Frugivore",elton_traits,O,SemArb,"foliage_inverts,soil_inverts,seeds",NA,NA,0,0,50,50,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Fringilla coelebs,Aves,Passeriformes,Fringillidae,Fringilla,coelebs,elton_birds,23.81,elton_traits,Invertivore,elton_traits,I,SemArb,foliage_inverts,NA,NA,0,0,40,30,30,0,0,0,0,NA,NA,NA,NA,NA,NA
+Gallinago gallinago,Aves,Charadriiformes,Scolopacidae,Gallinago,gallinago,elton_birds,112.94,elton_traits,Invertivore,elton_traits,I,SemAqu,soil_inverts,NA,NA,0,20,80,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Lissotriton helveticus,Amphibia,Urodela,Salamandridae,Lissotriton,helveticus,amphibio,1.8,amphibio,"Carnivore, Invertivore, Vertivore",amphibio,I,SemAqu,aquatic_inverts,NA,NA,10,80,10,0,0,0,0,0,0,1,1,NA,NA,1,NA
+Garrulus glandarius,Aves,Passeriformes,Corvidae,Garrulus,glandarius,elton_birds,159.46,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,Ter,"seeds,plant,soil_inverts,fungi",NA,NA,0,0,60,20,20,0,0,0,0,NA,NA,NA,NA,NA,NA
+Haematopus ostralegus,Aves,Charadriiformes,Haematopodidae,Haematopus,ostralegus,elton_birds,526,elton_traits,Invertivore,elton_traits,I,SemAqu,aquatic_inverts,NA,NA,0,40,60,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Lepus timidus,Mammalia,Lagomorpha,Leporidae,Lepus,timidus,pantheria,3105.42,pantheria,Folivore,elton_traits,F,Ter,plant,NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Loxia curvirostra,Aves,Passeriformes,Fringillidae,Loxia,curvirostra,elton_birds,38.29,elton_traits,Granivore,elton_traits,G,Arb,seeds,NA,NA,0,0,0,0,80,20,0,0,0,NA,NA,NA,NA,NA,NA
+Lyrurus tetrix,Aves,Galliformes,Phasianidae,Lyrurus,tetrix,amniota,1084.75,amniota,"Granivore, Folivore",Edited,H,Ter,"plant,fungi",NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Martes martes,Mammalia,Carnivora,Mustelidae,Martes,martes,pantheria,1299.99,pantheria,"Carnivore, Frugivore, Vertivore",elton_traits,O,SemArb,"vertebrates,soil_inverts,seeds",1,1,0,0,60,20,20,0,0,0,0,NA,NA,NA,NA,NA,NA
+Motacilla cinerea,Aves,Passeriformes,Motacillidae,Motacilla,cinerea,elton_birds,17.15,elton_traits,Invertivore,elton_traits,I,Ter,"aquatic_inverts,soil_inverts",NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Muscicapa striata,Aves,Passeriformes,Muscicapidae,Muscicapa,striata,amniota,15.9,amniota,Invertivore,Edited,I,Arb,aerial_inverts,NA,NA,0,0,0,0,0,20,80,0,0,NA,NA,NA,NA,NA,NA
+Myotis daubentonii,Mammalia,Chiroptera,Vespertilionidae,Myotis,daubentonii,pantheria,7.63,pantheria,Invertivore,Edited,I,Aer,aquatic_inverts,,,0,0,0,0,0,20,80,0,,,,,,,
+Rana temporaria,Amphibia,Anura,Ranidae,Rana,temporaria,amphibio,47.6,amphibio,"Carnivore, Invertivore",amphibio,I,SemAqu,aquatic_inverts,NA,NA,10,80,10,0,0,0,0,0,0,1,1,1,1,1,NA
+Parus major,Aves,Passeriformes,Paridae,Parus,major,elton_birds,16.25,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,Arb,"seeds,foliage_inverts",NA,NA,0,0,0,20,60,20,0,0,0,NA,NA,NA,NA,NA,NA
+Passer domesticus,Aves,Passeriformes,Passeridae,Passer,domesticus,elton_birds,26.51,elton_traits,Granivore,elton_traits,G,Arb,seeds,,,0,0,50,50,0,0,0,0,0,,,,,,
+Periparus ater,Aves,Passeriformes,Paridae,Periparus,ater,amniota,9.275,amniota,"Omnivore, Invertivore, Frugivore, Granivore",Edited,O,Arb,"seeds,foliage_inverts",NA,NA,0,0,0,20,60,20,0,0,0,NA,NA,NA,NA,NA,NA
+Phasianus colchicus,Aves,Galliformes,Phasianidae,Phasianus,colchicus,elton_birds,1120.31,elton_traits,"Omnivore, Vertivore, Invertivore, Granivore, Folivore",Edited,O,Ter,"plant,seeds,soil_inverts,fungi",NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Phylloscopus collybita,Aves,Passeriformes,Phylloscopidae,Phylloscopus,collybita,elton_birds,8.3,elton_traits,Invertivore,elton_traits,I,Arb,foliage_inverts,NA,NA,0,0,25,25,25,25,0,0,0,NA,NA,NA,NA,NA,NA
+Phylloscopus trochilus,Aves,Passeriformes,Phylloscopidae,Phylloscopus,trochilus,elton_birds,8.7,elton_traits,Invertivore,elton_traits,I,Arb,foliage_inverts,NA,NA,0,0,0,0,30,70,0,0,0,NA,NA,NA,NA,NA,NA
+Pipistrellus pipistrellus,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,pipistrellus,pantheria,5.3,pantheria,Invertivore,Edited,I,Aer,aerial_inverts,,,0,0,0,0,0,20,80,0,,,,,,,
+Pipistrellus pygmaeus,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,pygmaeus,Edited,4.5,pantheria,Invertivore,Edited,I,Aer,aerial_inverts,,,0,0,0,0,0,20,80,0,,,,,,,
+Plecotus auritus,Mammalia,Chiroptera,Vespertilionidae,Plecotus,auritus,pantheria,8.19,pantheria,Invertivore,elton_traits,I,Aer,foliage_inverts,,,0,0,0,0,0,20,80,0,,,,,,,
+Pluvialis apricaria,Aves,Charadriiformes,Charadriidae,Pluvialis,apricaria,elton_birds,214,elton_traits,Invertivore,elton_traits,I,Ter,soil_inverts,NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Prunella modularis,Aves,Passeriformes,Prunellidae,Prunella,modularis,elton_birds,20.24,elton_traits,"Omnivore, Invertivore, Granivore",elton_traits,O,Ter,"foliage_inverts,soil_inverts",NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Pyrrhula pyrrhula,Aves,Passeriformes,Fringillidae,Pyrrhula,pyrrhula,elton_birds,24.26,elton_traits,"Granivore, Folivore",elton_traits,H,SemArb,"seeds,plant",NA,NA,0,0,0,50,50,0,0,0,0,NA,NA,NA,NA,NA,NA
+Rallus aquaticus,Aves,Gruiformes,Rallidae,Rallus,aquaticus,elton_birds,110.67,elton_traits,"Omnivore, Invertivore, Folivore, Vertivore",elton_traits,O,SemAqu,"aquatic_inverts,soil_inverts",NA,NA,10,40,40,10,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Regulus regulus,Aves,Passeriformes,Regulidae,Regulus,regulus,elton_birds,5.54,elton_traits,Invertivore,elton_traits,I,Arb,foliage_inverts,NA,NA,0,0,0,50,50,0,0,0,0,NA,NA,NA,NA,NA,NA
+Riparia riparia,Aves,Passeriformes,Hirundinidae,Riparia,riparia,elton_birds,12.68,elton_traits,Invertivore,elton_traits,I,Arb,aerial_inverts,NA,NA,0,0,0,40,60,0,0,0,0,NA,NA,NA,NA,NA,NA
+Saxicola rubicola,Aves,Passeriformes,Muscicapidae,Saxicola,rubicola,amniota,14.5,amniota,Invertivore,Edited,I,Ter,"foliage_inverts,soil_inverts",NA,NA,0,60,40,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Scolopax rusticola,Aves,Charadriiformes,Scolopacidae,Scolopax,rusticola,elton_birds,308.31,elton_traits,Invertivore,elton_traits,I,SemAqu,soil_inverts,NA,NA,0,20,80,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Sitta europaea,Aves,Passeriformes,Sittidae,Sitta,europaea,elton_birds,20.37,elton_traits,Invertivore,Edited,I,Arb,foliage_inverts,,,0,0,33,33,33,0,0,0,,,,,,,
+Sorex araneus,Mammalia,Soricomorpha,Soricidae,Sorex,araneus,pantheria,9.18,pantheria,Insectivore,elton_traits,I,Ter,soil_inverts,2,1,0,0,100,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+Sorex minutus,Mammalia,Soricomorpha,Soricidae,Sorex,minutus,pantheria,4.32,pantheria,Insectivore,elton_traits,I,Ter,soil_inverts,2,1,0,0,100,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+Spinus spinus,Aves,Passeriformes,Fringillidae,Spinus,spinus,elton_birds,13.24,elton_traits,"Granivore, Folivore",elton_traits,H,SemArb,seeds,NA,NA,0,0,0,50,50,0,0,0,0,NA,NA,NA,NA,NA,NA
+Streptopelia decaocto,Aves,Columbiformes,Columbidae,Streptopelia,decaocto,elton_birds,148.96,elton_traits,"Frugivore, Granivore",elton_traits,H,Ter,seeds,,,0,0,80,10,10,0,0,0,,,,,,,
+Strix aluco,Aves,Strigiformes,Strigidae,Strix,aluco,elton_birds,472.46,elton_traits,Vertivore,elton_traits,V,Arb,vertebrates,NA,NA,0,10,70,10,10,0,0,0,1,NA,NA,NA,NA,NA,NA
+Sturnus vulgaris,Aves,Passeriformes,Sturnidae,Sturnus,vulgaris,elton_birds,77.14,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,SemArb,"soil_inverts,foliage_inverts,seeds",NA,NA,0,0,80,20,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Sus scrofa,Mammalia,Artiodactyla,Suidae,Sus,scrofa,pantheria,84471.54,pantheria,"Omnivore, Frugivore, Granivore",elton_traits,O,Ter,"plant,soil_inverts",2,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Sylvia atricapilla,Aves,Passeriformes,Sylviidae,Sylvia,atricapilla,elton_birds,16.7,elton_traits,"Omnivore, Invertivore, Frugivore",elton_traits,O,Arb,"foliage_inverts,plant",NA,NA,0,0,0,0,100,0,0,0,0,NA,NA,NA,NA,NA,NA
+Tringa nebularia,Aves,Charadriiformes,Scolopacidae,Tringa,nebularia,elton_birds,187,elton_traits,Invertivore,elton_traits,I,SemAqu,aquatic_inverts,NA,NA,0,60,40,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Tringa ochropus,Aves,Charadriiformes,Scolopacidae,Tringa,ochropus,elton_birds,71.4,elton_traits,Invertivore,elton_traits,I,SemAqu,aquatic_inverts,NA,NA,0,50,40,10,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Tringa totanus,Aves,Charadriiformes,Scolopacidae,Tringa,totanus,elton_birds,129,elton_traits,Invertivore,elton_traits,I,SemAqu,aquatic_inverts,NA,NA,0,80,20,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Troglodytes troglodytes,Aves,Passeriformes,Troglodytidae,Troglodytes,troglodytes,elton_birds,9.74,elton_traits,Invertivore,elton_traits,I,SemArb,foliage_inverts,NA,NA,0,0,50,50,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Turdus iliacus,Aves,Passeriformes,Turdidae,Turdus,iliacus,elton_birds,61.2,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,SemArb,"soil_inverts,plant",NA,NA,0,0,50,50,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Turdus merula,Aves,Passeriformes,Turdidae,Turdus,merula,elton_birds,102.73,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,Ter,"soil_inverts,foliage_inverts,plant",NA,NA,0,0,60,20,20,0,0,0,0,NA,NA,NA,NA,NA,NA
+Turdus philomelos,Aves,Passeriformes,Turdidae,Turdus,philomelos,elton_birds,67.74,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,Ter,"soil_inverts,plant",NA,NA,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+Turdus viscivorus,Aves,Passeriformes,Turdidae,Turdus,viscivorus,elton_birds,117.37,elton_traits,"Omnivore, Invertivore, Frugivore, Granivore",elton_traits,O,Ter,"soil_inverts,plant",NA,NA,0,0,60,20,10,10,0,0,0,NA,NA,NA,NA,NA,NA
+Vulpes vulpes,Mammalia,Carnivora,Canidae,Vulpes,vulpes,pantheria,4820.36,pantheria,"Omnivore, Vertivore, Insectivore, Frugivore",elton_traits,O,Ter,"vertebrates,soil_inverts,carrion",1,1,0,0,100,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,201 @@
+﻿Sample,Sample type,Site,Tree type,2024_age,Date,Time,Weather,Canopy cover,Ground cover,pH,Cond,Temp,Filter time,Vol filtered,Notes,NVC1,mean_ndvi
+01_01,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,,,,,,,M15b,0.332086585
+01_02,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,M15b,0.370938622
+01_03,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,,,,,,P1,W17b,0.388290084
+01_04,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.376365762
+01_05,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.382302796
+01_06,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.361465998
+01_07,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,0.07,10.3,,,B1,W17b,0.367808851
+01_08,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.354189321
+01_09,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.351062119
+01_10,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.336444506
+01_11,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.406931658
+01_12,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.40085275
+01_13,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.406920257
+01_14,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,4.95,0.03,11.8,,,B2,M15b,0.377946038
+01_15,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,4.57,0.25,14,,,P2,M15b,0.34414981
+01_16,Soil,1,Pine,250,23/06/2024,,"Moist, overcast",,,,,,,,,M15b,0.311732712
+01_17,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.337280803
+01_18,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.405268073
+01_19,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,W17b,0.343143436
+01_20,Soil,1,Birch,250,23/06/2024,,"Moist, overcast",,,,,,,,,M15b,0.354960129
+02_01,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.449975726
+02_02,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.398928314
+02_03,Soil,2,Pine,250,21/06/2024,,"Dry, cloudy",High,,4.55,0.02,13.7,,,P1,W11,0.383446223
+02_04,Soil,2,Pine,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.430640159
+02_05,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,4.48,0.03,13.6,,,B1,W11,0.424724964
+02_06,Soil,2,Pine,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.446832467
+02_07,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.468964027
+02_08,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,4.45,0.12,12.4,,,,W11,0.448388572
+02_09,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.492596697
+02_10,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,B2,W11,0.471888911
+02_11,Soil,2,Pine,250,21/06/2024,,"Dry, cloudy",High,,,,,,,P2,W11,0.403503629
+02_12,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.381159084
+02_13,Soil,2,Pine,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.422620695
+02_14,Soil,2,Pine,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.437316147
+02_15,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.39339787
+02_16,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.361878425
+02_17,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.429873786
+02_18,Soil,2,Pine,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.448137126
+02_19,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.403586673
+02_20,Soil,2,Birch,250,21/06/2024,,"Dry, cloudy",High,,,,,,,,W11,0.426299093
+03_01,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Mossy,,,,,,,W11,0.441333483
+03_02,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Mossy,5,0.03,12.6,,,B1,W11,0.453533606
+03_03,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Mossy,,,,,,,W11,0.410047436
+03_04,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Mossy,,,,,,,W11,0.451770551
+03_05,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Mossy,4.91,0.02,13.5,,,B2,W11,0.388191475
+03_06,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.415319731
+03_07,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.427858169
+03_08,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.443667077
+03_09,Soil,3,Pine,100,21/06/2024,,"Dry, cloudy",High,Rocky,,,,,,,W11,0.415308847
+03_10,Soil,3,Pine,100,21/06/2024,,"Dry, cloudy",High,Rocky,,,,,,P1,W11,0.429614792
+03_11,Soil,3,Pine,100,21/06/2024,,"Dry, cloudy",High,Rocky,5.96,0.01,15.7,,,,W11,0.400690553
+03_12,Soil,3,Pine,100,21/06/2024,,"Dry, cloudy",High,Rocky,,,,,,,W11,0.445796895
+03_13,Soil,3,Pine,100,21/06/2024,,"Dry, cloudy",High,Rocky,,,,,,P2,W11,0.437915339
+03_14,Soil,3,Pine,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.496589986
+03_15,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.510875685
+03_16,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.530970812
+03_17,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.506781862
+03_18,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Grassy,,,,,,,W11,0.490670959
+03_19,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Muddy,,,,,,,W19,0.422789427
+03_20,Soil,3,Birch,100,21/06/2024,,"Dry, cloudy",High,Muddy,,,,,,,W19,0.436180795
+04_01,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,5.45,0.04,15.3,,,B1,W11,0.503307315
+04_02,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.522797472
+04_03,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.523075977
+04_04,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.534263712
+04_05,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,U20b,0.446496461
+04_06,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.484482128
+04_07,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,5.4,0.03,14.1,,,,W11,0.491197077
+04_08,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.499054155
+04_09,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.478866371
+04_10,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,B2,W11,0.533675743
+04_11,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.519539945
+04_12,Soil,4,Pine,50,20/06/2024,,Overcast,High,"Steep bank, bracken",4.34,0.02,13,,,P1,W11,0.499346733
+04_13,Soil,4,Pine,50,20/06/2024,,Overcast,High,"Steep bank, bracken",,,,,,,yW17,0.491153364
+04_14,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,"Audiomoth, B3",W11,0.534254223
+04_15,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,W11,0.400299948
+04_16,Soil,4,Birch,50,20/06/2024,,Overcast,High,Grassy,,,,,,,U20b,0.382253998
+04_17,Soil,4,Pine,50,20/06/2024,,Overcast,High,"Pine needles, rocky",,,,,,,U20b,0.413488832
+04_18,Soil,4,Pine,50,20/06/2024,,Overcast,High,"Pine needles, rocky",,,,,,,W17b,0.422851078
+04_19,Soil,4,Pine,50,20/06/2024,,Overcast,High,"Pine needles, rocky",,,,,,,W17b,0.416524697
+04_20,Soil,4,Pine,50,20/06/2024,,Overcast,High,"Pine needles, rocky",,,,,,,U20b,0.378030924
+05_01,Soil,5,Birch,22,23/06/2024,,Sunny,,,4.2,0.05,14.1,,,B1,M15b,0.411603614
+05_02,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.388421649
+05_03,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.379575141
+05_04,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.41078583
+05_05,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.376972052
+05_06,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.405158283
+05_07,Soil,5,Pine,22,23/06/2024,,Sunny,,,4.1,0.19,14.1,,,P1,M15b,0.432861917
+05_08,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.428942114
+05_09,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.410793282
+05_10,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.399686109
+05_11,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.357266112
+05_12,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.36096779
+05_13,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.351838194
+05_14,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.349726212
+05_15,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.37307322
+05_16,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.376779559
+05_17,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,P2,M15b,0.370274883
+05_18,Soil,5,Pine,22,23/06/2024,,Sunny,,,5.33,0.04,12.7,,,,M15b,0.377409826
+05_19,Soil,5,Birch,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.373233988
+05_20,Soil,5,Pine,22,23/06/2024,,Sunny,,,,,,,,,M15b,0.429484093
+06_01,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,3.93,0.11,10.7,,,B1,M17a,0.335848104
+06_02,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.345638607
+06_03,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.367761566
+06_04,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,4.6,0.02,11.5,,,"P1, Audiomoth",M17a,0.347419555
+06_05,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,4.78,0.03,11.4,,,B2,M17a,0.332646285
+06_06,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.317076797
+06_07,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.286171347
+06_08,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.285659091
+06_09,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.294609466
+06_10,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.2933653
+06_11,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.322923094
+06_12,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.306294382
+06_13,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.303934551
+06_14,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.288056337
+06_15,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.302622729
+06_16,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.323920206
+06_17,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.312692983
+06_18,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.333002627
+06_19,Soil,6,Birch,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.330786962
+06_20,Soil,6,Pine,14,20/06/2024,,Drizzle,Low,Boggy,,,,,,,M17a,0.316640565
+07_01,Soil,7,Birch,11,19/06/2024,15:15,Overcast,Low,Mossy / boggy,4.99,0,11.9,,,B1,M15b,0.353345328
+07_02,Soil,7,Birch,11,19/06/2024,15:25,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.359810541
+07_03,Soil,7,Birch,11,19/06/2024,15:25,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.332816997
+07_04,Soil,7,Birch,11,19/06/2024,15:30,Overcast,Low,Mossy / boggy,5,0.12,12.2,,,B2,M15b,0.343995556
+07_05,Soil,7,Birch,11,19/06/2024,15:40,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.330454152
+07_06,Soil,7,Birch,11,19/06/2024,15:40,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.365529594
+07_07,Soil,7,Birch,11,19/06/2024,15:50,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.37253972
+07_08,Soil,7,Birch,11,19/06/2024,15:50,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.304259246
+07_09,Soil,7,Birch,11,19/06/2024,15:55,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.32557415
+07_10,Soil,7,Birch,11,19/06/2024,16:00,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.371191574
+07_11,Soil,7,Pine,11,19/06/2024,16:00,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.370568797
+07_12,Soil,7,Pine,11,19/06/2024,16:10,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.37097262
+07_13,Soil,7,Pine,11,19/06/2024,16:10,Overcast,Low,Mossy / boggy,5.9,0.2,11.6,,,P1,M15b,0.357491659
+07_14,Soil,7,Pine,11,19/06/2024,16:20,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.364322289
+07_15,Soil,7,Pine,11,19/06/2024,16:20,Overcast,Low,Mossy / boggy,,,,,,P2,M15b,0.379772915
+07_16,Soil,7,Pine,11,19/06/2024,16:30,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.37153501
+07_17,Soil,7,Pine,11,19/06/2024,16:40,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.351650697
+07_18,Soil,7,Pine,11,19/06/2024,16:50,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.348151582
+07_19,Soil,7,Pine,11,19/06/2024,16:50,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.371626261
+07_20,Soil,7,Pine,11,19/06/2024,17:00,Overcast,Low,Mossy / boggy,,,,,,,M15b,0.352807676
+08_01,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M16d,0.351141751
+08_02,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,4.75,0.03,13.5,,,B1,M15b,0.333598765
+08_03,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,4.82,0.03,12.6,,,,M15b,0.342574888
+08_04,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,P1,M15b,0.34605098
+08_05,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.357715522
+08_06,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.342852831
+08_07,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,5.4,0.07,11.8,,,B2,M15b,0.348844673
+08_08,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.328259388
+08_09,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.332954742
+08_10,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,P2,M15b,0.333247274
+08_11,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.350798517
+08_12,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.347764205
+08_13,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.350200853
+08_14,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.353777734
+08_15,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.367364747
+08_16,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.369171153
+08_17,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.374540091
+08_18,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.379513018
+08_19,Soil,8,Pine,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.357598937
+08_20,Soil,8,Birch,8,22/06/2024,,"Hot, sunny",Low,Mossy,,,,,,,M15b,0.360500766
+09_01,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,Mossy,,,,,,,H10a,0.360677151
+09_02,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,5.57,0.07,12.7,,,B1,M15b,0.385674176
+09_03,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.363163299
+09_04,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,5.7,0.09,12.7,,,,H10a,0.352022323
+09_05,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.373308549
+09_06,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,B2,H10a,0.352529022
+09_07,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.361715116
+09_08,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,U20b,0.367535795
+09_09,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,U20b,0.373940398
+09_10,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,U20b,0.370931932
+09_11,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,U20b,0.388322525
+09_12,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.384469567
+09_13,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.387475997
+09_14,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.385278885
+09_15,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.398373268
+09_16,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,4.57,0.04,15.1,,,B3,H10a,0.398763614
+09_17,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,B4,U20b,0.365634464
+09_18,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.403714925
+09_19,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.426978493
+09_20,Soil,9,Birch,6,22/06/2024,,"Hot, sunny",None,,,,,,,,H10a,0.421438709
+10_01,Soil,10,Birch,4,19/06/2024,11:45,Overcast,None,Mossy / boggy,,,,,,,M15b,0.302051187
+10_02,Soil,10,None,4,19/06/2024,12:00,Overcast,None,Mossy / boggy,,,,,,,M15b,0.273361123
+10_03,Soil,10,Pine,4,19/06/2024,12:15,Overcast,None,Mossy / boggy,4.5,0.08,12.1,,,,M15b,0.289579624
+10_04,Soil,10,Birch,4,19/06/2024,12:30,Overcast,None,Mossy / boggy,4.7,0.14,11.5,,,"Audiomoth, B2",H10a,0.301854014
+10_05,Soil,10,Pine,4,19/06/2024,12:40,Overcast,None,Mossy / boggy,,,,,,,M15b,0.318405926
+10_06,Soil,10,None,4,19/06/2024,12:50,Overcast,None,Mossy / boggy,,,,,,,M15b,0.291807803
+10_07,Soil,10,None,4,19/06/2024,13:15,Overcast,None,Mossy / boggy,,,,,,,M15b,0.290792894
+10_08,Soil,10,None,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.281632277
+10_09,Soil,10,Pine,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,P2,M15b,0.299182437
+10_10,Soil,10,None,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.300657038
+10_11,Soil,10,Pine,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.292833884
+10_12,Soil,10,Birch,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.299806338
+10_13,Soil,10,Pine,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.293607902
+10_14,Soil,10,Birch,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.280315833
+10_15,Soil,10,Birch,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.28560436
+10_16,Soil,10,Birch,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.266572939
+10_17,Soil,10,Birch,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.272991829
+10_18,Soil,10,Pine,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15b,0.297658031
+10_19,Soil,10,Birch,4,19/06/2024,,Overcast,None,Mossy / boggy,,,,,,,M15c,0.296835906
+10_20,Soil,10,Pine,4,19/06/2024,14:20,Overcast,None,Mossy / boggy,,,,,,,M15c,0.280942156

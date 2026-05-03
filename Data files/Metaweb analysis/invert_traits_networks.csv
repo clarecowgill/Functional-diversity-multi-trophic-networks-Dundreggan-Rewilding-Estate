@@ -1,0 +1,176 @@
+,microhabitat,feeding_guild,secondary_guilds,moisture_pref,size_class,phylum,class,order,family,genus,species
+f__Achromadoridae,he,b,,m,micro,Nematoda,Chromadorea,Chromadorida,Achromadoridae,Achromadora,Achromadora ruricola
+g__Adineta,ep,b,,h,micro,Rotifera,Bdelloidea,Bdelloidea,Adinetidae,Adineta,Adineta vaga
+o__Bdelloida,ep,b,,h,micro,Rotifera,Bdelloidea,Bdelloida,Adinetidae,Adinetida,NA
+g__Alaimus,eu,b,,m,micro,Nematoda,Enoplea,Enoplida,Alaimidae,Alaimus,NA
+s__Basiria duplexa,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Basiria,Basiria duplexa
+g__Bastiania,he,b,,m,micro,Nematoda,Enoplea,Triplonchida,Bastianiidae,Bastiania,Bastiania gracilis
+g__Bunonema,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Bunonematidae,Bunonema,Bunonema reticulatum
+g__Choriorhabditis,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Choriorhabditis,Choriorhabditis dudichi
+g__Collotheca,aq,b,,h,micro,Rotifera,Bdelloidea,Collothecacea,Collothecidae,Collotheca,Collotheca campanulata
+g__Cylindrolaimus,eu,b,,h,micro,Nematoda,Chromadorea,Araeolaimida,Diplopeltidae,Cylindrolaimus,NA
+g__Didymodactylos,ep,b,,m,micro,Rotifera,Bdelloidea,Bdelloidea,Philodinidae,Didymodactylos,Didymodactylos carnosus
+g__Diplogasteroides,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Diplogastridae,Diplogasteroides,Diplogasteroides magnus
+g__Ecphyadophora,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Ecphyadophora,Ecphyadophora tenuissima
+g__Ethmolaimus,he,b,,h,micro,Nematoda,Chromadorea,Chromadorida,Ethmolaimidae,Ethmolaimus,Ethmolaimus pratensis
+g__Eumonhystera,eu,b,,h,micro,Nematoda,Chromadorea,Monhysterida,Monhysteridae,Eumonhystera,NA
+g__Floscularia,aq,b,,h,micro,Rotifera,Bdelloidea,Flosculariaceae,Flosculariidae,Floscularia,Floscularia bifida
+g__Geomonhystera,he,b,,m,micro,Nematoda,Chromadorea,Monhysterida,Monhysteridae,Geomonhystera,Geomonhystera villosa
+g__Haliplectus,aq,b,,h,micro,Nematoda,Chromadorea,Plectida,Haliplectidae,Haliplectus,NA
+g__Ironus,he,b,,h,micro,Nematoda,Enoplea,Enoplida,Ironidae,Ironus,NA
+g__Notholca,aq,b,,h,micro,Rotifera,Bdelloidea,Ploima,Brachionidae,Notholca,Notholca acuminata
+g__Odontolaimus,he,b,,h,micro,Nematoda,NA,Triplonchida,Odontolaimidae,Odontolaimus,NA
+g__Paraphanolaimus,aq,b,,h,micro,Nematoda,Chromadorea,Plectida,Aphanolaimidae,Paraphanolaimus,Paraphanolaimus behningi
+g__Prismatolaimus,he,b,,m,micro,Nematoda,NA,Triplonchida,Prismatolaimidae,Prismatolaimus,NA
+g__Prodesmodora,aq,b,,h,micro,Nematoda,Chromadorea,Desmodorida,Desmodoridae,Prodesmodora,Prodesmodora circulata
+g__Rhabditophanes,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Alloionematidae,Rhabditophanes,NA
+g__Rhabdolaimus,he,b,,h,micro,Nematoda,Enoplea,Enoplida,Rhabdolaimidae,Rhabdolaimus,Rhabdolaimus aquaticus
+g__Stenonchulus,ep,b,,m,micro,Nematoda,NA,Triplonchida,Onchulidae,Stenonchulus,Stenonchulus troglodytes
+s__Teratocephalus lirellus,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Teratocephalidae,Teratocephalus,Teratocephalus lirellus
+s__Teratocephalus terrestris,he,b,,m,micro,Nematoda,Chromadorea,Rhabditida,Teratocephalidae,Teratocephalus,Teratocephalus terrestris
+g__Theristus,aq,b,,h,micro,Nematoda,Chromadorea,Monhysterida,Xyalidae,Theristus,Theristus agilis
+g__Tylolaimophorus,he,b,,h,micro,Nematoda,NA,Triplonchida,Diphtherophoridae,Tylolaimophorus,Tylolaimophorus typicus
+s__Acrochordonoposthia conica,ep,c,,m,micro,Platyhelminthes,Rhabditophora,Rhabdocoela,Typhloplanidae,Acrochordonoposthia,Acrochordonoposthia conica
+f__Anystidae,ep,c,,m,meso,Arthropoda,Arachnida,Trombidiformes,Anystidae,Anystis,NA
+g__Aporcelaimellus,eu,c,,m,micro,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcelaimellus,NA
+f__Bdellidae,ep,c,,m,meso,Arthropoda,Arachnida,Trombidiformes,Bdellidae,Bdellodes,NA
+g__Clarkus,he,c,,m,micro,Nematoda,Enoplea,Mononchida,Mononchidae,Clarkus,NA
+g__Crassolabium,eu,c,,m,micro,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Crassolabium,NA
+g__Euteratocephalus,he,c,,h,micro,Nematoda,Chromadorea,Plectida,Metateratocephalidae,Euteratocephalus,Euteratocephalus palustris
+f__Eviphididae,he,c,,m,micro,Arthropoda,Arachnida,Mesostigmata,Eviphididae,Eviphis,NA
+g__Foveacheles,ep,c,,m,micro,Arthropoda,Arachnida,Trombidiformes,Rhagidiidae,Foveacheles,NA
+g__Labidostomma,ep,c,,m,meso,Arthropoda,Arachnida,Trombidiformes,Labidostommidae,Labidostomma,Labidostomma luteum
+f__Macrochelidae,he,c,,m,meso,Arthropoda,Arachnida,Mesostigmata,Macrochelidae,Macrocheles,NA
+g__Malthodes,ep,c,,m,meso,Arthropoda,Insecta,Coleoptera,Cantharidae,Malthodes,Malthodes simplipygus
+g__Metateratocephalus,he,c,,h,micro,Nematoda,Chromadorea,Plectida,Metateratocephalidae,Metateratocephalus,Metateratocephalus crassidens
+g__Microplana,ep,c,,m,meso,Platyhelminthes,NA,Tricladida,Geoplanidae,Microplana,NA
+s__Microplana fuscomaculosa,ep,c,,m,meso,Platyhelminthes,NA,Tricladida,Geoplanidae,Microplana,Microplana fuscomaculosa
+s__Microplana kwiskea,ep,c,,m,meso,Platyhelminthes,NA,Tricladida,Geoplanidae,Microplana,Microplana kwiskea
+s__Microplana terrestris,ep,c,,m,meso,Platyhelminthes,NA,Tricladida,Geoplanidae,Microplana,Microplana terrestris
+g__Mononchus,he,c,,m,micro,Nematoda,NA,Mononchida,Mononchidae,Mononchus,Mononchus aquaticus
+f__Labidostommatidae,ep,c,,m,meso,Arthropoda,Arachnida,Trombidiformes,Labidostommatidae,NA,NA
+f__Rhagidiidae,ep,c,,m,micro,Arthropoda,Arachnida,Trombidiformes,Rhagidiidae,NA,NA
+o__Tricladida,ep,c,,m,macro,Platyhelminthes,Turbellaria,Tricladida,Continenticola,NA,NA
+g__Nygolaimus,he,c,,m,micro,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Nygolaimus,NA
+f__Zerconidae,he,c,,m,micro,Arthropoda,Arachnida,Mesostigmata,Zerconidae,Parazercon,NA
+g__Pergamasus,he,c,,m,micro,Arthropoda,Arachnida,Mesostigmata,Parasitidae,Pergamasus,NA
+g__Poecilochirus,ep,c,,m,meso,Arthropoda,Arachnida,Mesostigmata,Parasitidae,Poecilochirus,NA
+f__Halacaridae,aq,c,,h,micro,Arthropoda,Arachnida,Trombidiformes,Halacaridae,Simognathus,NA
+g__Trachytes,he,c,,m,micro,Arthropoda,Arachnida,Mesostigmata,Polyaspididae,Trachytes,Trachytes aegrota
+s__Trachytes baloghi,he,c,,m,meso,Arthropoda,Arachnida,Mesostigmata,Polyaspididae,Trachytes,Trachytes baloghi
+g__Tripyla,he,c,,h,micro,Nematoda,NA,Triplonchida,Tripylidae,Tripyla,NA
+g__Veigaia,he,c,,m,meso,Arthropoda,Arachnida,Mesostigmata,Veigaiidae,Veigaia,NA
+s__Weberacantha beckeri,ep,c,,m,micro,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Weberacantha,Weberacantha beckeri
+g__Achaeta,eu,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Achaeta,Achaeta bibulba
+f__Euphthiracaridae,eu,d,,h,micro,Arthropoda,Arachnida,Sarcoptiformes,Euphthiracaridae,Acrotritia,Rhysotritia duplicata
+s__Buchholzia appendiculata,he,d,,m,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Buchholzia,Buchholzia appendiculata
+g__Cernosvitoviella,eu,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,NA
+s__Cernosvitoviella aggtelekiensis,eu,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,Cernosvitoviella aggtelekiensis
+s__Cernosvitoviella atrata,eu,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,Cernosvitoviella atrata
+s__Cernosvitoviella minor,eu,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,Cernosvitoviella minor
+f__Oppiidae,eu,d,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Oppiidae,Dissorhina,Dissorhina ornata
+s__Enchytraeus crypticus,eu,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus crypticus
+g__Hemienchytraeus,eu,d,,h,micro,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Hemienchytraeus,NA
+s__Hrabeiella periglandulata,eu,d,,m,meso,Annelida,Clitellata,incertae sedis,Hrabeiellidae,Hrabeiella,Hrabeiella periglandulata
+s__Hypochthonius rufulus,eu,d,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Hypochthoniidae,Hypochthonius,Hypochthonius rufulus
+g__Lumbricus,he,d,,m,macro,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus polyphemus
+g__Marionina,he,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Marionina,NA
+g__Mesenchytraeus,eu,d,,h,meso,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Mesenchytraeus,Mesenchytraeus pelicensis
+f__Julidae,he,d,,m,macro,Arthropoda,Diplopoda,Julida,Julidae,NA,NA
+s__Naiadacarus arboricola,ph,d,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Acaridae,Naiadacarus,Naiadacarus arboricola
+g__Nothrus,ep,d,,m,meso,Arthropoda,Arachnida,Sarcoptiformes,Nothridae,Nothrus,Nothrus willmanni
+o__Psocodea,ep,d,,m,meso,Arthropoda,Insecta,Psocodea,Pachytroctidae,Pachytroctes,Pachytroctes maculosus
+g__Palaeacarus,he,d,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Palaeacaridae,Palaeacarus,Palaeacarus hystricinus
+s__Proteroiulus fuscus,he,d,,h,meso,Arthropoda,Diplopoda,Julida,Blaniulidae,Proteroiulus,Proteroiulus fuscus
+s__Steganacarus magnus,eu,d,,h,meso,Arthropoda,Arachnida,Sarcoptiformes,Phthiracaridae,Steganacarus,Steganacarus magnus
+s__Achipteria coleoptrata,he,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Achipteriidae,Achipteria,Achipteria coleoptrata
+s__Aglenchus agricola,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Aglenchus,Aglenchus agricola
+g__Aphelenchoides,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Aphelenchoididae,Aphelenchoides,NA
+s__Aphelenchus avenae,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Aphelenchidae,Aphelenchus,Aphelenchus avenae
+s__Atopochthonius artiodactylus,he,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Atopochthoniidae,Atopochthonius,Atopochthonius artiodactylus
+f__Alycidae,he,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Alycidae,Bimichaelia,NA
+g__Cephalenchus,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Cephalenchus,Cephalenchus hexalineatus
+g__Coslenchus,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Coslenchus,NA
+g__Cyrthermannia,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Nanhermanniidae,Cyrthermannia,Cyrthermannia florens
+s__Dicyrtomina saundersi,ep,f,,m,meso,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,Dicyrtomina,Dicyrtomina saundersi
+g__Discotylenchus,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Discotylenchus,Discotylenchus lorestanensis
+g__Ditylenchus,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Anguinidae,Ditylenchus,NA
+f__Eulohmanniidae,he,f,,m,meso,Arthropoda,Arachnida,Sarcoptiformes,Eulohmanniidae,Eulohmannia,Eulohmannia ribagai
+f__Tylenchidae,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,NA
+g__Filenchus,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus discrepans
+s__Filenchus misellus,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus misellus
+s__Folsomia candida,eu,f,,h,meso,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Folsomia,Folsomia candida
+g__Friesea,eu,f,,h,meso,Arthropoda,Collembola,Poduromorpha,Neanuridae,Friesea,Friesea japonica
+g__Geminoppia,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Oppiidae,Geminoppia,Globoppia maior
+f__Hemileiidae,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Hemileiidae,Hemileius,Hemileius microclava
+g__Hermannia,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Hermanniidae,Hermannia,Hermannia gibba
+f__Eniochthoniidae,he,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Eniochthoniidae,Hypochthoniella,Eniochthonius minutissimus
+g__Hypogastrura,he,f,,h,meso,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Hypogastrura,NA
+s__Isotomiella minor,eu,f,,h,micro,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotomiella,Isotomiella minor
+g__Liochthonius,eu,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Brachychthoniidae,Liochthonius,NA
+s__Tullbergia yosii,eu,f,,h,micro,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Mesaphorura,Tullbergia yosii
+f__Brachychthoniidae,eu,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Brachychthoniidae,NA,NA
+s__Neanura muscorum,he,f,,h,meso,Arthropoda,Collembola,Poduromorpha,Neanuridae,Neanura,Neanura muscorum
+g__Onychiurus,eu,f,,h,meso,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Onychiurus,Onychiurus hangchowensis
+s__Oppiella nova,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Oppiidae,Oppiella,Oppiella nova
+g__Oribatula,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Oribatulidae,Oribatula,Oribatula tibialis
+f__Tomoceridae,ep,f,,m,meso,Arthropoda,Collembola,Entomobryomorpha,Tomoceridae,Pogonognathellus,NA
+g__Protaphorura,eu,f,,h,meso,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Protaphorura,Protaphorura fimata
+f__Paronellidae,ep,f,,h,meso,Arthropoda,Collembola,Entomobryomorpha,Paronellidae,Pseudoparonella,NA
+s__Pseudosinella alba,he,f,,m,meso,Arthropoda,Collembola,Entomobryomorpha,Entomobryidae,Pseudosinella,Pseudosinella alba
+s__Sminthurides aquaticus,ep,f,,h,micro,Arthropoda,Collembola,Symphypleona,Sminthurididae,Sminthurides,Sminthurides aquaticus
+s__Tectocepheus velatus,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Tectocepheidae,Tectocepheus,Tectocepheus velatus
+s__Tomocerus minor,ep,f,,m,meso,Arthropoda,Collembola,Entomobryomorpha,Tomoceridae,Tomocerus,Tomocerus minor
+g__Tritegeus,he,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Cepheusidae,Tritegeus,Tritegeus bisulcatus
+s__Xenillus tegeocranus,ep,f,,m,micro,Arthropoda,Arachnida,Sarcoptiformes,Xenillidae,Xenillus,Xenillus tegeocranus
+g__Zeatylenchus,he,f,,m,micro,Nematoda,Chromadorea,Rhabditida,Anguinidae,Zeatylenchus,Zeatylenchus pittosporum
+s__Arion ater,ep,h,,h,macro,Mollusca,Gastropoda,Heterobranchia,Arionidae,Arion,Arion ater
+g__Criconema,he,h,,m,micro,Nematoda,Chromadorea,Rhabditida,Criconematidae,Criconema,NA
+g__Helicotylenchus,he,h,,m,micro,Nematoda,Chromadorea,Rhabditida,Hoplolaimidae,Helicotylenchus,Helicotylenchus pseudorobustus
+g__Mesocriconema,he,h,,m,micro,Nematoda,Chromadorea,Rhabditida,Criconematidae,Mesocriconema,Mesocriconema curvatum
+f__Tylenchulidae,he,h,,m,micro,Nematoda,Chromadorea,Rhabditida,Tylenchulidae,Paratylenchus,Paratylenchus straeleni
+g__Paravulvus,he,h,,m,micro,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Paravulvus,Paravulvus hartingii
+g__Rotylenchus,he,h,,m,micro,Nematoda,Chromadorea,Rhabditida,Hoplolaimidae,Rotylenchus,Rotylenchus robustus
+g__Sphaeronema,he,h,,m,micro,Nematoda,Chromadorea,Tylenchida,Tylenchulidae,Sphaeronema,NA
+g__Allodorylaimus,eu,o,"b,d,f",m,micro,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Allodorylaimus,NA
+g__Astatumen,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Hypsibiidae,Astatumen,Astatumen trinacriae
+g__Attheyella,aq,o,"b,d,f",h,micro,Arthropoda,Copepoda,Harpacticoida,Canthocamptidae,Attheyella,Attheyella crassa
+g__Baicalellia,aq,o,"c,b",h,micro,Platyhelminthes,NA,Rhabdocoela,Provorticidae,Baicalellia,NA
+g__Bertolanius,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Eohypsibiidae,Bertolanius,Bertolanius nebulosus
+g__Bryocamptus,aq,o,"b,d,f",h,micro,Arthropoda,Copepoda,Harpacticoida,Canthocamptidae,Bryocamptus,Bryocamptus stillae
+s__Catenula turgida,aq,o,"c,b,d",h,micro,Platyhelminthes,Turbellaria,NA,Catenulidae,Catenula,Catenula turgida
+g__Chaetonotus,aq,o,"b,d,f",h,micro,Gastrotricha,Gastrotricha,Chaetonotida,Chaetonotidae,Chaetonotus,NA
+g__Chrysonema,eu,o,"c,b,f",m,micro,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Chrysonema,Chrysonema attenuatum
+g__Diphascon,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Hypsibiidae,Diphascon,Diphascon pingue
+s__Enchodeloides signyensis,eu,o,"c,b,f",m,micro,Nematoda,Enoplea,Dorylaimida,Nordiidae,Enchodeloides,Enchodeloides signyensis
+g__Enchodelus,eu,o,"c,b,f",m,micro,Nematoda,Enoplea,Dorylaimida,Nordiidae,Enchodelus,NA
+g__Eudorylaimus,eu,o,"c,b,f",m,micro,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Eudorylaimus,Eudorylaimus carteri
+g__Geocentrophora,ep,o,"c,b",h,micro,Platyhelminthes,NA,Prorhynchida,Prorhynchidae,Geocentrophora,NA
+s__Gnathorhynchus inermis,ep,o,"c,b",h,micro,Platyhelminthes,NA,Rhabdocoela,Gnathorhynchidae,Gnathorhynchus,Gnathorhynchus inermis
+g__Heterolepidoderma,aq,o,"b,d,f",h,micro,Gastrotricha,Gastrotricha,Chaetonotida,Chaetonotidae,Heterolepidoderma,NA
+s__Hypsibius dujardini,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Hypsibiidae,Hypsibius,Hypsibius dujardini
+s__Ichthydium skandicum,aq,o,"b,d,f",h,micro,Gastrotricha,Gastrotricha,Chaetonotida,Chaetonotidae,Ichthydium,Ichthydium skandicum
+g__Isohypsibius,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Isohypsibiidae,Isohypsibius,Isohypsibius papillifer
+g__Itunella,aq,o,"b,d,f",h,micro,Arthropoda,Copepoda,Harpacticoida,Canthocamptidae,Itunella,Itunella muelleri
+s__Lepidodermella intermedia,aq,o,"b,d,f",h,micro,Gastrotricha,Gastrotricha,Chaetonotida,Chaetonotidae,Lepidodermella,Lepidodermella intermedia
+g__Macrobiotus,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Macrobiotidae,Macrobiotus,Macrobiotus polonicus
+s__Macrobiotus hufelandi,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Macrobiotidae,Macrobiotus,Macrobiotus hufelandi
+g__Mesobiotus,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Macrobiotidae,Mesobiotus,Mesobiotus philippinicus
+g__Mesocrista,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Hypsibiidae,Mesocrista,Mesocrista revelata
+s__Microdalyellia armigera,ep,o,"c,b",h,micro,Platyhelminthes,NA,Rhabdocoela,Dalyelliidae,Microdalyellia,Microdalyellia armigera
+f__Candonidae,aq,o,"b,d",h,micro,Arthropoda,Ostracoda,Podocopida,Candonidae,NA,NA
+f__Catenulidae,ep,o,"c,b",h,micro,Platyhelminthes,Catenulida,NA,Catenulidae,NA,NA
+o__Rhabdocoela,ep,o,"c,b",h,micro,Platyhelminthes,NA,Rhabdocoela,Neodalyellida,NA,NA
+f__Stenostomidae,ep,o,"c,b",h,micro,Platyhelminthes,Catenulida,NA,Stenostomidae,NA,NA
+s__Nemastoma bimaculatum,ep,o,"c,d",m,macro,Arthropoda,Arachnida,Opiliones,Nemastomatidae,Nemastoma,Nemastoma bimaculatum
+s__Olisthanella truncula,ep,o,"c,b",h,micro,Platyhelminthes,NA,Rhabdocoela,Typhloplanidae,Olisthanella,Olisthanella truncula
+g__Pristionchus,he,o,"c,b",m,micro,Nematoda,Chromadorea,Rhabditida,Diplogastridae,Pristionchus,Pristionchus quartusdecimus
+g__Proleptonchus,eu,o,"c,b,f",m,micro,Nematoda,Enoplea,Dorylaimida,Leptonchidae,Proleptonchus,Proleptonchus weischeri
+s__Richtersius coronifer,ep,o,"b,f,h",m,micro,Tardigrada,Eutardigrada,Parachela,Richtersiusidae,Richtersius,Richtersius coronifer
+s__Styloplanella strongylostomoides,ep,o,"c,b",h,micro,Platyhelminthes,NA,Rhabdocoela,Typhloplanidae,Styloplanella,Styloplanella strongylostomoides
+g__Tylencholaimus,eu,o,"c,b,f",m,micro,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Tylencholaimus,Tylencholaimus mirabilis
+g__Howardula,ep,p,,m,micro,Nematoda,Chromadorea,Rhabditida,Allantonematidae,Howardula,NA
+s__Howardula phyllotretae,ep,p,,m,micro,Nematoda,Chromadorea,Rhabditida,Allantonematidae,Howardula,Howardula phyllotretae
+g__Pheromermis,he,p,,h,micro,Nematoda,Enoplea,Mermithida,Mermithidae,Pheromermis,NA
+s__Steinernema affine,he,p,,m,micro,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema affine
+s__Steinernema glaseri,he,p,,m,micro,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema glaseri
