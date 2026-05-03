@@ -55,7 +55,7 @@ A key contribution of this repository is a **bespoke functional trait database f
 - `dundreggan_matrix.csv`  
   Tree roller eDNA OTU read table
 
-  - `all_acoustics.csv`  
+- `all_acoustics.csv`  
   Acoustic detections (BirdNET outputs)
 
 - `blank_association.csv`  
