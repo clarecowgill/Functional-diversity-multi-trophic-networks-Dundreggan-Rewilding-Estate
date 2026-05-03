@@ -38,7 +38,7 @@ A key contribution of this repository is a **bespoke functional trait database f
 - **`invertebrate_trait_database.xlsx`**  
   Bespoke functional trait database for soil invertebrates.
 
-  This dataset assigns ecological traits (feeding guild, microhabitat/ soil strata, moisture affinity and body length) to taxa detected via 18S metabarcoding, including family-level and higher assignments where species-level traits could not be found.
+  This dataset assigns ecological traits (feeding guild, microhabitat/ soil strata, moisture affinity and body length) to invertebrate taxa detected via 18S metabarcoding, including family-level and higher assignments where species-level traits could not be found.
 
   This database was developed due to a lack of existing trait resources for soil invertebrates and is intended as a reusable resource for the wider community.
 
