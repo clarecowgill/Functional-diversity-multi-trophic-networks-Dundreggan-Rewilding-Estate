@@ -52,7 +52,10 @@ A key contribution of this repository is a **bespoke functional trait database f
 
 ### Vertebrates
 
-- `all_acoustics.csv`  
+- `dundreggan_matrix.csv`  
+  Tree roller eDNA OTU read table
+
+  - `all_acoustics.csv`  
   Acoustic detections (BirdNET outputs)
 
 - `blank_association.csv`  
