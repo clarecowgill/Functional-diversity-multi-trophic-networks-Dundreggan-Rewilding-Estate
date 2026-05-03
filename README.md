@@ -155,7 +155,7 @@ These files were used for taxonomic identification of vertebrates from 12S data.
 
 ## Bioinformatic Processing Notes
 
-- **12S (vertebrates):** Processed using a conservative, reference-based pipeline (Tapirs), including quality filtering, merging, clustering (VSEARCH), and BLAST-based taxonomic assignment against a curated UK vertebrate database. Denoising approaches (e.g. DADA2) were not applied due to the short, conserved nature of the 12S marker and the focus on species-level inference.
+- **12S (vertebrates):** Processed using Tapirs pipeline, including quality filtering, merging, clustering (VSEARCH), and BLAST-based taxonomic assignment against a curated UK vertebrate database.
 
 - **18S (invertebrates) and ITS2 (fungi):** Processed using **DADA2**, including:
   - quality filtering  
