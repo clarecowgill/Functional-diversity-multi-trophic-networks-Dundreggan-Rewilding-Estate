@@ -144,12 +144,12 @@ Visualises example networks and calculates network metrics including:
 ### 12S (Vertebrates)
 
 - `12s_verts.fasta`  
-  Reference database of vertebrate sequences
+  Reference database of sequences for UK vertebrate taxa
 
 - `12s_verts_tax_map.txt`  
   Mapping file linking sequences to taxonomic IDs (GenBank)
 
-These files were used for taxonomic identification of vertebrates from 12S data.
+These files were used for taxonomic identification of UK vertebrates from 12S data.
 
 ---
 
