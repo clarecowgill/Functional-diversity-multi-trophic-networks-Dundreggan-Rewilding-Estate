@@ -97,31 +97,31 @@ Trait datasets:
 
 ## 2. R Scripts
 
-### `fungi analysis.R`
-Processes ITS2 fungal OTU data and calculates all diversity metrics and functional space analysis.
+- `fungi analysis.R`
+  Processes ITS2 fungal OTU data and calculates all diversity metrics and functional space analysis.
 
-### `invertebrate taxonomy refinement.R`
-Applies manual curation and standardisation of 18S taxonomic assignments, intended to be run prior to invertebrate analysis.
+- `invertebrate taxonomy refinement.R`
+  Applies manual curation and standardisation of 18S taxonomic assignments, intended to be run prior to invertebrate analysis.
 
-### `invertebrate analysis.R`
-Processes 18S invertebrate ASV data, integrates taxonomy and traits, and derives community-level metrics.
+- `invertebrate analysis.R`
+  Processes 18S invertebrate ASV data, integrates taxonomy and traits, and derives community-level metrics.
 
-### `vertebrate analysis.R`
-Processes acoustic and tree-derived vertebrate detections, including analysis of functional diveristy.
+- `vertebrate analysis.R`
+  Processes acoustic and tree-derived vertebrate detections, including analysis of functional diveristy.
 
-### `MetaWebs.R`
-Constructs multi-trophic interaction networks (metawebs) using:
-- presence–absence data  
-- trait-based interaction rules  
-- inferred trophic links
-Note that networks were created for each soil sample (for co-occurring soil fauna), but importantly vertebrate taxa were incorporated at the site level (i.e. the same across all networks from the same site)
+- `MetaWebs.R`
+  Constructs multi-trophic interaction networks (metawebs) using:
+  - presence–absence data  
+  - trait-based interaction rules  
+  - inferred trophic links
+  Note that networks were created for each soil sample (for co-occurring soil fauna), but importantly vertebrate taxa were incorporated at the site level (i.e. the same across all networks from the same site)
 
-Visualises example networks and calculates network metrics including:
-- species richness (S)  
-- number of links (L)  
-- connectance  
-- modularity  
-- robustness (R50)
+  Visualises example networks and calculates network metrics including:
+  - species richness (S)  
+  - number of links (L)  
+  - connectance  
+  - modularity  
+  - robustness (R50)
 
 ---
 
