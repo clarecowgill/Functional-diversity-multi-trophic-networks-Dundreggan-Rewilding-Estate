@@ -36,7 +36,7 @@ A key contribution of this repository is a **bespoke functional trait database f
   Curated taxonomy table following manual refinement
 
 - **`invertebrate_trait_database.xlsx`**  
-  Bespoke functional trait database for soil invertebrates.
+  ** Functional trait database for soil invertebrates. **
 
   This dataset assigns ecological traits (feeding guild, microhabitat/ soil strata, moisture affinity and body length) to invertebrate taxa detected via 18S metabarcoding, including family-level and higher assignments where species-level traits could not be found.
 
